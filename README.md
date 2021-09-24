@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PoojithaIrosha
 - 👀 I’m interested in Web Designing, Android Development
-- 🌱 I’m currently learning PHP, MySQL
--
+- 🌱 I’m currently learning PHP, MySQL, Java
 - 📫 Contact me on poojithairosha9311@gmail.com
 
 <!---
