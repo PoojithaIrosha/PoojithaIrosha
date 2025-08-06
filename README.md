@@ -27,14 +27,14 @@ I'm a results-driven Full Stack Software Engineer with a focus on backend-heavy,
 ### ⚡ Tech Toolbox
 
 #### 🧠 Backend
-`Java` `Spring Boot` `Spring Security` `REST APIs` `Flyway` `Hibernate`  
+`Java` `Python` `TypeScript` `Spring Boot` `Spring Security` `Node Js` `Django` `Fast API` `REST APIs` `Flyway` `Hibernate`  
 `PostgreSQL` `MySQL` `MongoDB` `RabbitMQ` `Kafka`
 
 #### 🎨 Frontend
 `Angular` `React` `Tailwind CSS` `Material UI` `Bootstrap`
 
 #### ⚙️ DevOps & Infra
-`Docker` `Docker Compose` `Docker Swarm` `Nginx` `AWS ECR`  
+`Docker` `Kubernetes` `Docker Compose` `Docker Swarm` `Nginx` `AWS ECR`  
 `GitHub Actions` `CI/CD` `Prometheus + Grafana` `cAdvisor` `Node Exporter`
 
 #### 🛡️ Auth & Identity
